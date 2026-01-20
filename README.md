@@ -20,7 +20,8 @@
 ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
 
 ## 🧠 Currently Learning
-🎨 Foundations of User Experience (UX) Design — Google | Coursera  
+🎨 Foundations of User Experience (UX) Design — Google | Coursera
+🎨 Figma
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Harachuu&theme=omni&hide_border=false)
