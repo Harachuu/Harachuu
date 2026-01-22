@@ -21,7 +21,8 @@
 
 ## 🧠 Currently Learning
 🎨 Foundations of User Experience (UX) Design — Google | Coursera<br/>
-🎨 Figma
+🎨 Figma<br/> 
+🎮 Epic Games Interactive 3D Game Design Externship — Extern
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Harachuu&theme=omni&hide_border=false)
