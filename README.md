@@ -19,7 +19,7 @@
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
 
-## 🧠 Currently Learning
+## 🧠 Currently Learning / Working On
 🎨 Foundations of User Experience (UX) Design — Google | Coursera<br/>
 🎨 Figma<br/> 
 🎮 Epic Games Interactive 3D Game Design Externship — Extern
