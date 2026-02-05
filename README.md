@@ -15,7 +15,3 @@
 🎨 Foundations of User Experience (UX) Design — Google | Coursera<br/>
 🎮 Epic Games Interactive 3D Game Design Externship — Extern
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Harachuu&theme=omni&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Harachuu&theme=omni&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harachuu&theme=omni&layout=compact)
