@@ -2,7 +2,7 @@
 
 📚 Software & Data Engineering Technology student at NJIT<br/>
 🏫 Technology Specialist Intern at KIPP NJ<br/>
-🏫 Accepted Summer Internship with Legend Biotech as a Network and Infrastructure IT Intern<br/>
+🏫 Accepted Summer 2026 Internship with Legend Biotech as a Network and Infrastructure IT Intern<br/>
 🎮 Currently building a Unity game — originally a class project, now an evolving passion project 😊<br/>
 🔗 Preview here: https://play.unity.com/en/games/aeac43ad-5931-4874-a4a6-1580564d6c91/help-me-help-you-final-project
 
